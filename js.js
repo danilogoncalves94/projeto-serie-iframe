@@ -1,7 +1,7 @@
 function clik1() {
     setTimeout(() => {
         $('body').css({
-            background: "url(/imagens/25-21-fundo-body.jpg) no-repeat center",
+            background: "url(imagens/25-21-fundo-body.jpg) no-repeat center",
             backgroundSize: 'cover'
         })
     }, 1000)
@@ -10,7 +10,7 @@ function clik1() {
 function clik2() {
     setTimeout(() => {
         $('body').css({
-            background: "url(/imagens/advogada-fundo-body.jpg) no-repeat center",
+            background: "url(imagens/advogada-fundo-body.jpg) no-repeat center",
             backgroundSize: 'cover'
         })
     }, 1000)
@@ -19,7 +19,7 @@ function clik2() {
 function clik3() {
     setTimeout(() => {
         $('body').css({
-            background: "url(/imagens/amor-rural-fundo-body.jpg) no-repeat center",
+            background: "url(imagens/amor-rural-fundo-body.jpg) no-repeat center",
             backgroundSize: 'cover'
         })
     }, 1000)
@@ -28,7 +28,7 @@ function clik3() {
 function clik4() {
     setTimeout(() => {
         $('body').css({
-            background: "url(/imagens/apostando-alto-fundo-body.jpg) no-repeat center",
+            background: "url(imagens/apostando-alto-fundo-body.jpg) no-repeat center",
             backgroundSize: 'cover'
         })
     }, 1000)
@@ -37,7 +37,7 @@ function clik4() {
 function clik5() {
     setTimeout(() => {
         $('body').css({
-            background: "url(/imagens/pousando-no-amor-fundo-body.jpg) no-repeat center",
+            background: "url(imagens/pousando-no-amor-fundo-body.jpg) no-repeat center",
             backgroundSize: 'cover'
         })
     }, 1000)
@@ -46,7 +46,7 @@ function clik5() {
 function clik6() {
     setTimeout(() => {
         $('body').css({
-            background: "url(/imagens/cha-cha-cha-fundo-body.jpg) no-repeat center",
+            background: "url(imagens/cha-cha-cha-fundo-body.jpg) no-repeat center",
             backgroundSize: 'cover'
         })
     }, 1000)
