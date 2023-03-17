@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url('/imagens/popcorn.png') repeat center center;
+    background-size: 850px;                       /*650px*/
+}
+
+div {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    margin: 15px;  
+}
+
+img {
+    display: block;
+    border-radius: 100%;
+    width: 80px;
+    transition: 0.4s;
+    box-sizing: border-box;
+    margin: 0px;
+    border: solid 3px green;
+}
+
+img:hover {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.904);
+    border: solid 3px greenyellow;
+    transform: scale(1.2);
+    margin: 0px 5px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('/imagens/iframe-tv.png');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+iframe {
+    position: relative;
+    top: 66px;
+    width: 833px;
+    height: 498px;
+    /*border: solid 2px red;*/
+}
