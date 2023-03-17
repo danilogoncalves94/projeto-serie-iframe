@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url('imagens/popcorn.png') repeat center center;
+    background: url('../imagens/popcorn.png') repeat center center;
     background-size: 850px;                       /*650px*/
 }
 
@@ -43,7 +43,7 @@ main {
     display: flex;
     justify-content: center;
     height: 100vh;
-    background-image: url('imagens/iframe-tv.png');
+    background-image: url('../imagens/iframe-tv.png');
     background-position: center center;
     background-size: contain;
     background-repeat: no-repeat;
